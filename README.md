@@ -16,17 +16,12 @@ To install the required dependencies and set up the project, follow these steps:
    cd drive-cli
    ```
 
-3. Create a virtual environment and activate it:
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
+3. Create a virtual environment and activate it
 
 4. Install the required Python dependencies:
 
    ```bash
-   googleapis
+   googleapi
    dotenv
    ```
 
